@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I aim to become professional about data science and engineering.
-- 💻 I’m currently learning Python, SQL and tools that are used in data engineering such as Apache Spark, Kafka etc.
+- 🔭 I aim to become professional about data engineering.
+- 💻 I’m currently learning tools that are used in data engineering such as Apache Spark, Kafka etc.
 
 <div align="center">
 <!--<a href="" target="_blank">
